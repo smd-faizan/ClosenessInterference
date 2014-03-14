@@ -1,0 +1,1 @@
+Usage : Once installed in Cytoscape. Press "Closeness Interference" from "Apps" menu.
